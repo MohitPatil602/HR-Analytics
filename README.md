@@ -9,7 +9,7 @@
         
  
 
- # Global Superstore Market
+ # HR ANALYTICS USING POWERBI
 ![2023-02-19](https://user-images.githubusercontent.com/103365435/220012903-213058c5-82b6-4db0-b06d-82e711316979.png)
 ![2023-02-19 (1)](https://user-images.githubusercontent.com/103365435/220012925-06cdf9a0-45a1-44aa-82e0-fd1408666b00.png)
 ![2023-02-19 (2)](https://user-images.githubusercontent.com/103365435/220012952-3bf7b2c6-6235-42ae-81cb-723c523699ae.png)
