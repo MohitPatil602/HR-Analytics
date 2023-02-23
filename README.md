@@ -7,8 +7,7 @@
 
 
         
- # Azure DevOps
- ![2022-12-30](https://user-images.githubusercontent.com/103365435/210037073-3264a347-9ae8-49a1-bc83-769559e6a0b6.png)
+ 
 
  # Global Superstore Market
 ![2023-02-19](https://user-images.githubusercontent.com/103365435/220012903-213058c5-82b6-4db0-b06d-82e711316979.png)
